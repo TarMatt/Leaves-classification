@@ -1,6 +1,6 @@
 # Algorithms-for-Massive-Data-project
 
-The code contain the jupyter notebook with the code
+The code contain the jupyter notebook version of the code
 
 This is the link to google colab: 
 
