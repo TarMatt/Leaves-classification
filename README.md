@@ -1,4 +1,4 @@
-# Algorithms-for-Massive-Data-project
+# Classification of leaves using Image classification
 
 The code contain the jupyter notebook version of the code.
 In the github there is also the report written for the exam of Algorithms for Massive Data.
